@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT sikkoo_mandoo_3729.wsgi:application
